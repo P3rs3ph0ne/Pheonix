@@ -4,11 +4,7 @@ Windows multifunction backdoor and Handler
 
 ## Installation
 
-install the requirements file with  [pip](https://pip.pypa.io/en/stable/) :
-
-```bash
-pip install -r requirments.txt
-```
+Git clone this repository
 
 ## Usage
 
